@@ -18,6 +18,7 @@ p {
   color: white;
   cursor: pointer;
   margin-right: 0.2em;
+  user-select: none;
 }
 
 .function-btn {
